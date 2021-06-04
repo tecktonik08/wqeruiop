@@ -4,6 +4,6 @@
 
 python, html5, css....
 
-배우고 싶은 언어 : node.js, kotlin
+배우고 싶은 언어 : node.js, kotlin, java, C
 
 포부 : 코딩 인재가 되어서 작업과 생활을 편하게 할 수 있는 유용한 프로그램을 개발하고 싶습니다.
